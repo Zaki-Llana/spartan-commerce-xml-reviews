@@ -1,4 +1,4 @@
-<div class="w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
+ <div class="w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
   <h1 class="text-4xl font-bold text-slate-500">Order Details</h1>
 
   <!-- Grid -->
@@ -81,7 +81,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    {{-- <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-800">
+    <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-800">
       <div class="p-4 md:p-5 flex gap-x-4">
         <div class="flex-shrink-0 flex justify-center items-center size-[46px] bg-gray-100 rounded-lg dark:bg-gray-800">
           <svg class="flex-shrink-0 size-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -113,7 +113,7 @@
           </div>
         </div>
       </div>
-    </div> --}}
+    </div> 
     <!-- End Card -->
 
     <!-- Card -->

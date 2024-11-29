@@ -14,7 +14,7 @@
                 </div>
               @endforeach
             </div>
-            <!--<div class="px-6 pb-6 mt-6 border-t border-gray-300 dark:border-gray-400 ">
+            <div class="px-6 pb-6 mt-6 border-t border-gray-300 dark:border-gray-400 ">
               <div class="flex flex-wrap items-center mt-6">
                 <span class="mr-2">
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="w-4 h-4 text-gray-700 dark:text-gray-400 bi bi-truck" viewBox="0 0 16 16">
@@ -23,7 +23,7 @@
                 </span>
                 <h2 class="text-lg font-bold text-gray-700 dark:text-gray-400">Stars</h2>
               </div>
-            </div>-->
+            </div>
           </div>
         </div>
         <div class="w-full px-4 md:w-1/2 ">
